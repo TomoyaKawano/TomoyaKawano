@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomoyaKawano
-- 👀 I’m interested in Ruby
+- 👀 I’m interested in Next.js/Python
 - 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... good good
